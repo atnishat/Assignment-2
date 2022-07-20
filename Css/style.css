@@ -141,7 +141,14 @@ body{
 
 .icon-link{
         display: flex;
-}  
+} 
+.icon-link img{
+    width: 25px;
+    height: 25px;
+
+
+
+} 
 .icon-link h3{
    
        color: gray;
@@ -151,16 +158,6 @@ body{
     color: gray;
     }
 
-.fa-clock {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-
-
-
-.fa-comment-dots  {
-        padding-right: 10px;
-    }
 
 
 /* ----------------main parts style end -------------- */
